@@ -1,0 +1,185 @@
+<html>
+    <head>
+        <title>Hello Welcome to Page</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font- awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <section id="nav-bar">
+            <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="#"><img src="hanipro.jpg"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data- target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-
+            label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only"> (current)</span></a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">Portfolio</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">Blog</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">Resume</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">Service</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">Testemonials</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="#">FAQ</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-
+            C/Users/IMUSER/Desktop/Agency Template/index.html (Agency Template)-Brackets
+            label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </div>
+        </nav>
+    </section>
+
+<!---------- Banner section----------->
+
+<section id="Banner">
+<div class="container">
+<div class="row">
+<div class="col-md-7">
+<a href="#"><img src="">basta mag butang kug profile</a>
+<p class="promo-title">Hello Welcome To My Page! </p>
+<P>Hi! I am Hanie Jane C. Diagbel, A College Student at Jose Maria College Foundationin (JMCFI), course Batchelor of Science in Information Technology(BSIT), and have several certifications in Responsive Web Design Developer. I specialize in Computer Hardware Servicing and have achieved Achievements on my High Schools Years. My goal is to Finish my studies, to graduate in Collage and to have a Job that suites me in my skills and talents."</P>
+</div>
+</div>
+</div>
+
+<img src="image" class="hanipro.jpg-img">
+</section>
+
+
+<!------Portfolio Section------->
+
+<section id="Portfolio">
+<div class="container text-center">
+<h1 class="title">My Portfolio</h1>
+<div class="row text-center">
+<div class="col-md-4 Portfolio">
+<img src="index.html" class="Portfolio-img">
+<h4>College Fest</h4>
+<p>College Fest is one of the memorable experience on this  second semeter. </p>
+</div>
+<div class="col-md-4 Portfolio">
+<img src="index.html" class="Portfolio-img">
+<h4>freeCodeCamp certification</h4>
+<p>Before i get this certificate i answer tutorials page and certification project, its take a lot of  time get this certificate. but at they same time i enjoy well answering this project and it's help a lot for me to learn more about HTML and CSS.</p>
+</div>
+<div class="col-md-4 Portfolio">
+<img src="index.html" class="Portfolio-img">
+<h4>My Output During prilem exam</h4>
+<p>This output during prilem exam is all about my self,  beuase this activity where i can share my interest and my Hobbies in life. and also my favorate Food,Movie and Boooks.</p>
+</div>
+</div>
+</section>
+
+<!---------My Blog------------>
+
+<section id="My Blog">
+<div class="container">
+<h1 class="title text-center">MY BLOG</h1>
+<div class="row">
+<div class="col-md-6">
+<p class="about-Blog">mag butang kuh blog dari nga side</p>
+<ul>
+    <li>BLOG</li>
+    <li>BLOG</li>
+    <li>BLOG</li>
+  </ul>
+</div>
+<div class="col-md-6"
+<img src="image/network.png" class="image-fluid">
+</div>
+</div>
+</div>
+</section>
+
+<!-------RESUME-------->
+<section id="Resume">
+<div class="container">
+<h1 class="title text-center">Resume</h1>
+<div class="row">
+<div class="col-md-5 Resume">
+<p class="about-Resume">mag butang kug RESUME dari nga side</p>
+<img src="images/user1.jpg">
+<p class="user-details">My Resume</b><br>download my Resume</p>
+</div>
+</div>
+</section>
+
+<!------Service Section------->
+
+<section id="Service ">
+    <div class="container text-center">
+    <h1 class="title">Service</h1>
+    <div class="row text-center">
+    <div class="col-md-4 Service">
+    <img src="index.html" class="Service-img">
+    <h4>Web Design</h4>
+    <p>mag butang kug about service dari</p>
+    </div>
+    <div class="col-md-4 Service">
+    <img src="index.html" class="Service-img">
+    <h4>Digital Marketing</h4>
+    <p>mag butang kug aboutService dari</p>
+    </div>
+    <div class="col-md-4 Service">
+    <img src="index.html" class="Service-img">
+    <h4>Social Media Management</h4>
+    <p>mag butang kug about Service dari</p>
+    </div>
+    </div>
+    </section>
+
+<!-------Testimonials-------->
+
+<section id="Testimonials">
+    <div class="container">
+    <h1 class="title text-center">Testimonials</h1>
+    <div class="row offset-1">
+    <div class="col-md-5 Resume">
+    <p class="about-Resume">mag butang kug Testimonials- dari nga side</p>
+    <img src="images/user1.jpg">
+    <p class="user-details">My Testimonials-</b><br>Testimonials-</p>
+    </div>
+    </div>
+    </section>
+    
+<!---------Frequently Asked Questions------------>
+
+<section id="Frequently Asked Questions">
+    <div class="container">
+    <h1 class="title text-center">Frequently Asked Questions</h1>
+    <div class="row">
+    <div class="col-md-6">
+    <p class="about-Blog">mag butang kuh blog dari nga side</p>
+    <ul>
+        <li>BLOG</li>
+        <li>BLOG</li>
+        <li>BLOG</li>
+      </ul>
+    </div>
+    <div class="col-md-6"
+    <img src="image/network.png" class="image-fluid">
+    </div>
+    </div>
+    </div>
+    </section>
+
+    </body>
+</html>
